@@ -2,7 +2,7 @@
 //  TimerManager.swift
 //  StopWatch
 //
-//  Created by srajend1 on 24/10/19.
+//  Created by Sriram on 24/10/19.
 //  Copyright © 2019 Sriram. All rights reserved.
 //
 
