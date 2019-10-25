@@ -14,7 +14,8 @@ This screenshot is similar to the one you see in default IOS clock app.
 
 Portiat Screenshot
 
-<img src="https://previews.dropbox.com/p/thumb/AAkNFNe5cAnukzA2kaogCIyGxcdXUXQ28Sy0CRruCftr2Ccs8fzeAMl_25YE-QXcmfT3R2_Xhp1CkE-vCe6TJOz42fnMSzSjokX0tuRMOL1n90ekof_w4TPFTUcoT4-A02GIyMjoSLaLrUG4bZOdThKhZ2cp5PIPEYYRjsoe3jjC6ocgU8RKdHWfodu5L-SZtFy_X1xBJQyg5GWb55sls8a_e4dhpiI53fIQQyJY8pl3uaBJFnzeW0nJc16FxF7DwGNg1dG792j6I7XQERp3YHqu8EhKovfu9Zx1fE3z2uuS-am7RjRlGSIkOpktLWuZg1FaaWG-VKeQv_28QQf7zN2T/p.png?fv_content=true&size_mode=5" width="50%"></img> 
+<img src="https://previews.dropbox.com/p/thumb/AAkNFNe5cAnukzA2kaogCIyGxcdXUXQ28Sy0CRruCftr2Ccs8fzeAMl_25YE-QXcmfT3R2_Xhp1CkE-vCe6TJOz42fnMSzSjokX0tuRMOL1n90ekof_w4TPFTUcoT4-A02GIyMjoSLaLrUG4bZOdThKhZ2cp5PIPEYYRjsoe3jjC6ocgU8RKdHWfodu5L-SZtFy_X1xBJQyg5GWb55sls8a_e4dhpiI53fIQQyJY8pl3uaBJFnzeW0nJc16FxF7DwGNg1dG792j6I7XQERp3YHqu8EhKovfu9Zx1fE3z2uuS-am7RjRlGSIkOpktLWuZg1FaaWG-VKeQv_28QQf7zN2T/p.png?fv_content=true&size_mode=5
+" width="23%"></img> 
 
 Landscape Screenshot
 
